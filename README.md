@@ -19,7 +19,7 @@ contained follows:
 
 ## Author :black_nib:
 
-* __yared birhanu__ <[yared51](https://github.com/yared51)>
+* __daniel kassahun__ <[danneba](https://github.com/danneba)>
 
 ## Acknowledgements :pray:
 
